@@ -1,4 +1,4 @@
-# EXP 5: 32Bit-ALU_Synthesis
+# EXP 5: 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports.
 
 ## Aim:
 
